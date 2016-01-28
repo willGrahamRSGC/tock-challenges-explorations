@@ -3,10 +3,9 @@
 import Cocoa
 
 var str = "Hello, playground"
-print("please enter month")
-var month = Int(readLine(stripNewline: true)!)!
-print("please enter day")
-var day = Int(readLine(stripNewline: true)!)!
+
+var month = 2
+var day = 14
 let special = 18
 
 // create conditionals

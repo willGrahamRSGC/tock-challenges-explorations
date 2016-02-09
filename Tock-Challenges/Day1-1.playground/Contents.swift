@@ -5,7 +5,7 @@ import Cocoa
 var str = "Hello, playground"
 
 var month = 2
-var day = 14
+var day = 18
 let special = 18
 
 // create conditionals
